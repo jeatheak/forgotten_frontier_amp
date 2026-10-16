@@ -1,8 +1,8 @@
 {
-    "id": "d569b632-c9d0-44ba-865f-5066bda87195",
+    "id": "a8fa2561-dd41-4aa5-bfc2-dc29b52ba0e4",
     "authors": ["Thomas van den Heuvel"],
-    "origin": "https://github.com/jeatheak/forgotten-frontier-releases.git",
-    "url": "https://github.com/jeatheak/forgotten-frontier-releases",
+    "origin": "https://github.com/jeatheak/forgotten_frontier_amp.git",
+    "url": "https://github.com/jeatheak/forgotten_frontier_amp",
     "imagefile": "",
     "prefix": "FF",
     "repotype": "AppTemplates"
