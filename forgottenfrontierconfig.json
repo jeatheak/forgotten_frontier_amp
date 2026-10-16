@@ -182,7 +182,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "download",
         "IncludeInCommandLine": false,
-        "DefaultValue": "https://github.com/jeatheak/forgotten-frontier-releases/releases/latest/download",
+        "DefaultValue": "https://github.com/jeatheak/forgotten_frontier_amp/releases/latest/download",
         "EnumValues": {}
     }
 ]
